@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone---
+   git clone [https://github.com/SammyAce12/Business-card.git](https://github.com/SammyAce12/Business-card.git)
 ## 👤 Author
 **SammyAce**
 * GitHub: [@SammyAce12](https://github.com/SammyAce12)
